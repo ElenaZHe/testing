@@ -12,7 +12,7 @@
      В нем описаны проверки соцсети VK </li>
   <li><a href="https://docs.google.com/spreadsheets/d/1fBCBeGYxG0ipwg7R0uxYh6bN6bjvrLvUuAcfcNDxP8g/edit#gid=0"> Check-list 2 </a>: <br/>
     В нем описаны проверки сайта-тренажера </li>
-  <li><a href="https://docs.google.com/spreadsheets/d/1yJnWwNBGhwBJnNSH_b8qf4fJMHskrBE8aKzBSWWxHxY/edit#gid=0"> Check-list 2 </a>: <br/>
+  <li><a href="https://docs.google.com/spreadsheets/d/1yJnWwNBGhwBJnNSH_b8qf4fJMHskrBE8aKzBSWWxHxY/edit#gid=0"> Check-list 3 </a>: <br/>
     В нем описаны проверки демо сайта интернет-магазина </li>
    <li> <a href="https://docs.google.com/spreadsheets/d/1hoU7Lc6zjv3K3sU2fK-6IDwOvhdIACrY6i1nZ_Lwgg8/edit"> Test-case 1 </a>: <br/>
 В нем описан тест-кейс треугольника  </li>
