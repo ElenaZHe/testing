@@ -20,4 +20,6 @@
 В нем описан тест-кейс прогноза погоды </li>
    <li> <a href="https://docs.google.com/spreadsheets/d/190R8maiT_R8jA3tAtkhdqQEp3BPX0kpiwoHK53qe1ao/edit"> Test-case 3 </a>: <br/>
 В нем описан тест-кейс калькулятора </li>
+   <li> <a href="https://docs.google.com/spreadsheets/d/1BiYFymA7r9VzKgyf6GJoJ1_p5k4HS_uejwaRWA4fqYo/edit"> Test-case 4 </a>: <br/>
+В нем описан тест-кейс демо сайта интернет магазина </li>
 </ul>
